@@ -10,3 +10,13 @@ Breadth-first search (BFS) is an algorithm for searching a tree data structure f
 ![Animated_BFS](https://user-images.githubusercontent.com/47561760/191857456-8be1ad6f-a9f4-4856-8cf7-5bdb14db42e6.gif)
 
 [More About BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
+
+# ToDo
+
+Implementation of below algorithms: 
+- [x] BFS
+- [x] UCS
+- [ ] DFS
+- [ ] DLS
+- [ ] IDS
+- [ ] BS
