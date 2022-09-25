@@ -11,12 +11,19 @@ Breadth-first search (BFS) is an algorithm for searching a tree data structure f
 
 [More About BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
 
+# DFS (Depth-first search)
+Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking. 
+
+![Depth-First-Search](https://user-images.githubusercontent.com/47561760/192159317-d9302456-c19a-41b4-94bb-0e186cfb4ae0.gif)
+
+[More About DFS](https://en.wikipedia.org/wiki/Depth-first_search)
+
 # ToDo
 
 Implementation of below algorithms: 
 - [x] BFS
 - [x] UCS
-- [ ] DFS
+- [x] DFS
 - [ ] DLS
 - [ ] IDS
 - [ ] BS
