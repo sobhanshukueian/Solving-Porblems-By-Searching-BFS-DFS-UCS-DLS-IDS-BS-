@@ -18,12 +18,16 @@ Depth-first search (DFS) is an algorithm for traversing or searching tree or gra
 
 [More About DFS](https://en.wikipedia.org/wiki/Depth-first_search)
 
+# DLS
+You can check out this repository for the DLS implementation used to solve the river crossing problem: 
+[DLS Implementation](https://github.com/sobhanshukueian/River-Crossing-Problem-by-DLS)
+
 # ToDo
 
 Implementation of below algorithms: 
 - [x] BFS
 - [x] UCS
 - [x] DFS
-- [ ] DLS
+- [x] DLS
 - [ ] IDS
 - [ ] BS
