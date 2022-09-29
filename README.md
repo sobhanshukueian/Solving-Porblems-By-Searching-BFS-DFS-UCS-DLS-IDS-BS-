@@ -1,7 +1,12 @@
 # Solving-Porblems-By-Searching-BFS-DFS-UCS-DLS-IDS-BS-
 
 In artificial intelligence, problems can be solved by using searching algorithms, evolutionary computations, knowledge representations, etc.
-This Repo contains implementation of different search algorithms in python.
+This Repo contains implementation of different search algorithms in python:
+
+* [BFS](#bfs)
+* [DFS](#dfs-depth-first-search)
+* [DLS](#dls)
+
 
 # BFS 
 
